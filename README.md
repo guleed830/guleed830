@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guleed830
 - 👀 I’m interested in Web dev and machine learning
 - 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web dev
 - 📫 How to reach me ...
 
 <!---
